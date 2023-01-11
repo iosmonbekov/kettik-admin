@@ -5,5 +5,5 @@ import ReactDOM from 'react-dom/client';
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
-root.render(<h1>Kotok</h1>);
+root.render(<h1>Am Bash</h1>);
 
